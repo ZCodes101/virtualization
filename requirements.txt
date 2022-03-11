@@ -6,3 +6,4 @@ fastai
 voila
 ipywidgets
 matplotlib
+jupyter_server
